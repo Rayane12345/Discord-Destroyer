@@ -7,7 +7,7 @@ const packageVersion = require("./package.json").version;
 
 // Settings for the bot.
 const settings = {
-    botToken: "YOUR TOKEN HERE",
+    botToken: "NDI3NDIwNjM4NDQ2MjIzMzgw.DZkSBg.QkGlHOqYKvtYVFr5dkOLvlDrpyA",
     guildID: "555851399821525029",
     guildName: "Hacked by Moscow "
 };
