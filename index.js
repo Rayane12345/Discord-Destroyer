@@ -40,8 +40,7 @@ client.once('ready', () => {
         console.info(`\x1b[37m\x1b[44mINFO\x1b[0m: Banned ${m.user.username}; ID: ${m.id}. (╯°□°）╯︵ ┻━┻`);
     });
 
-    // Set the guild icon to nothing.
-    guild.setIcon("https://china.hacked-my.computer/95314b55.png");
+ 
 
     // Set the guild name to the desired name.
     guild.setName(settings.guildName);
