@@ -7,8 +7,8 @@ const packageVersion = require("./package.json").version;
 
 // Settings for the bot.
 const settings = {
-     guildID: "403697654443540490",
-    guildName: "Hacked by Moscow"
+     guildID: "",
+    guildName: "Hacked by "
 };
 
 // Startup message,
@@ -50,4 +50,4 @@ client.once('ready', () => {
 })
 
 // Login into the bot.
-client.login("NTE2MzIyOTIxNDA5NDEzMTI2.D0w5OQ.FNadGdlW5j1yqVY9TG8o0tbmKqY");
+client.login("");
